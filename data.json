@@ -1,0 +1,91 @@
+{
+    "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 100,
+    "total": 252
+    },
+    "data": [
+    {
+    "open": 143.23,
+    "high": 143.25,
+    "low": 141.0401,
+    "close": 141.51,
+    "volume": 73035862,
+    "adj_high": null,
+    "adj_low": null,
+    "adj_close": 141.51,
+    "adj_open": null,
+    "adj_volume": null,
+    "split_factor": 1,
+    "symbol": "AAPL",
+    "exchange": "XNAS",
+    "date": "2021-10-12T00:00:00+0000"
+    },
+    {
+    "open": 142.27,
+    "high": 144.81,
+    "low": 141.81,
+    "close": 142.81,
+    "volume": 63012662,
+    "adj_high": null,
+    "adj_low": null,
+    "adj_close": 142.81,
+    "adj_open": null,
+    "adj_volume": null,
+    "split_factor": 1,
+    "symbol": "AAPL",
+    "exchange": "XNAS",
+    "date": "2021-10-11T00:00:00+0000"
+    },
+    {
+    "open": 144.03,
+    "high": 144.18,
+    "low": 142.56,
+    "close": 142.9,
+    "volume": 58718700,
+    "adj_high": null,
+    "adj_low": null,
+    "adj_close": 142.9,
+    "adj_open": null,
+    "adj_volume": null,
+    "split_factor": 1,
+    "symbol": "AAPL",
+    "exchange": "XNAS",
+    "date": "2021-10-08T00:00:00+0000"
+    },
+    {
+    "open": 143.06,
+    "high": 144.215,
+    "low": 142.73,
+    "close": 143.29,
+    "volume": 61732656,
+    "adj_high": null,
+    "adj_low": null,
+    "adj_close": 143.29,
+    "adj_open": null,
+    "adj_volume": null,
+    "split_factor": 1,
+    "symbol": "AAPL",
+    "exchange": "XNAS",
+    "date": "2021-10-07T00:00:00+0000"
+    },
+    {
+    "open": 139.47,
+    "high": 142.15,
+    "low": 138.37,
+    "close": 142,
+    "volume": 83049259,
+    "adj_high": null,
+    "adj_low": null,
+    "adj_close": 142,
+    "adj_open": null,
+    "adj_volume": null,
+    "split_factor": 1,
+    "symbol": "AAPL",
+    "exchange": "XNAS",
+    "date": "2021-10-06T00:00:00+0000"
+    }
+
+    ]
+    }
